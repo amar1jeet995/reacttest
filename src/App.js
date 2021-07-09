@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> Built The pipeline at Last.
+          Edit <code>src/App.js</code> Built it.
         </p>
         <a
           className="App-link"
