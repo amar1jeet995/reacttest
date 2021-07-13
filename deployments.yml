@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: amarjeet1995/kubernetesreact:latest
+        image: amarjeet1995/kubernetesreact:${env.BUILD_NUMBER}
         ports:
         - containerPort: 80
 ---
